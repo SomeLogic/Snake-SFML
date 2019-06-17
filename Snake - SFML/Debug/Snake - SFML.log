@@ -1,0 +1,4 @@
+﻿  Game.cpp
+c:\users\robert szczepański\source\repos\snake - sfml\snake - sfml\game.cpp(84): warning C4551: function call missing argument list
+c:\users\robert szczepański\source\repos\snake - sfml\snake - sfml\game.cpp(153): warning C4018: '<': signed/unsigned mismatch
+  Snake - SFML.vcxproj -> C:\Users\Robert Szczepański\source\repos\Snake - SFML\Debug\Snake - SFML.exe
